@@ -16,22 +16,21 @@
 - 📫 How to reach me **abhisekh.work@gmail.com**
 
 - 📄 Know about my experiences [https://abhisekh.vercel.app/docs/Abhisekh%20Sahoo%20CV-2022.pdf](https://abhisekh.vercel.app/docs/Abhisekh%20Sahoo%20CV-2022.pdf)
-  <br></br>
+  <br/>
 
 <div align="center">
-<h2 align="center">⚒️ Connect with me: ⚒️</h2>
-
-<p align="left">
+<h2 align="center">🔗 Connect with me: 🔗</h2>
+<br/>
 <a href="https://twitter.com/abhisekhsahoo5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhisekhsahoo5" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abhisekh-sahoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhisekh-sahoo" height="30" width="40" /></a>
 <a href="https://instagram.com/beingabhisekh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="beingabhisekh" height="30" width="40" /></a>
-</p>
+
 </div>
-<br></br>
+<br/>
 <div align="center">
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
-<p align="left"> 
+<br/>
 <a href="https://cordova.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/> </a> &nbsp;
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> &nbsp;
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> &nbsp;
@@ -48,7 +47,7 @@
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> &nbsp;
 <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> &nbsp;
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> &nbsp;
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 <br/>
 </div>
 <div align="center">
@@ -58,8 +57,9 @@
   <br/>
 </div>
 
-<h2 align="center">⚡ Stats ⚡</h2>
 <div align=center>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br/>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Abhisekh-18&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Abhisekh-18&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
