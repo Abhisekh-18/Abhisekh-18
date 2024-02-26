@@ -16,10 +16,10 @@
 - 📫 How to reach me **abhisekh.work@gmail.com**
 
 - 📄 Know about my experiences [https://abhisekh.vercel.app/docs/Abhisekh%20Sahoo%20CV-2022.pdf](https://abhisekh.vercel.app/docs/Abhisekh%20Sahoo%20CV-2022.pdf)
-  <br/>
+  <br/><br/>
 
 <div align="center">
-<h2 align="center">🔗 Connect with me: 🔗</h2>
+<h2 align="center">🔗 Connect with me 🔗</h2>
 <br/>
 <a href="https://twitter.com/abhisekhsahoo5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhisekhsahoo5" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abhisekh-sahoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhisekh-sahoo" height="30" width="40" /></a>
@@ -47,9 +47,9 @@
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> &nbsp;
 <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> &nbsp;
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> &nbsp;
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-<br/>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 </div>
+<br/>
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Abhisekh-18/Abhisekh-18/output/github-contribution-grid-snake.svg" />
